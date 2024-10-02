@@ -18,6 +18,7 @@ public class Question10 {
             System.out.println("1부터 " +n+ "까지의 합 :"+ sum);
             break;
         }
+
         else{
             System.out.println("입력하신 숫자가 100보다 작습니다.");
         }
